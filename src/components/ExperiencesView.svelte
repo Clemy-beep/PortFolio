@@ -8,7 +8,7 @@
   ];
 
   let descriptions = [
-    "Alfred & Nestor is my first project and my first experience of being a develope. I contributed to this project firstly by adding content to the website (React) and mostly by creating the web application with the team already in place and developing the user interface (Flutter).",
+    "Alfred & Nestor is my first project and my first experience of being a developer. I contributed to this project firstly by adding content to the website (React) and mostly by creating the web application with the team already in place and developing the user interface (Flutter).",
 
     "CMDB is the project I made for my presentation at the end of my web dev formation. <br/> It is a social media all about movies. Largely inspired by The Movie Database and IMDB you can write reviews about movies and share them with other users, follow users and comment other reviews.",
 
